@@ -1,7 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rub-Dyb! 👋
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+## 🚀 About Me
+- I am 17 and i come from Norway
+- I take an interst to tech/Coding stuff and gaming
+
+
+## 📬 Get in Touch
+- Connect with me on [Instagram]()
+
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
 
 <!--
-**Rub-Dyb/Rub-Dyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
